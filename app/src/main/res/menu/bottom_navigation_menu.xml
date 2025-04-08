@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/menu_forecast"
+        android:title="@string/forecast" />
+    <item
+        android:id="@+id/menu_crops"
+        android:title="@string/crops" />
+    <item
+        android:id="@+id/menu_insights"
+        android:title="@string/insights" />
+    <item
+        android:id="@+id/menu_profile"
+        android:title="@string/profile" />
+</menu>
