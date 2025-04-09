@@ -1,4 +1,8 @@
 <resources>
+    <string name="enter_city">Enter city name</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="updated_time_format">Updated: %s</string>
     <string name="app_name">ClimateSense</string>
     <string name="app_logo">App Logo</string>
     <string name="notifications">Notifications</string>

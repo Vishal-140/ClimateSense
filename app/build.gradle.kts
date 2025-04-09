@@ -47,6 +47,10 @@ dependencies {
 
     // GridLayout dependency (manually added)
     implementation("androidx.gridlayout:gridlayout:1.0.0")
+    //Retrofit dependency
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+
 
     // Testing
     testImplementation(libs.junit)
